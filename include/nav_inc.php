@@ -15,7 +15,7 @@
               <a class="nav-link active" aria-current="page" href="#">Qui sommes nous</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link" href="Contact.php">Contact</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="inscription.php">S'inscrire</a>
